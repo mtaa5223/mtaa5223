@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-
-                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+                
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mtaa5223)](https://solved.ac/mtaa5223)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaa5223&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 <br>
   
