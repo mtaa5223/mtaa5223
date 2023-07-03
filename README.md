@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
                 
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mtaa5223)](https://solved.ac/mtaa5223)
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaa5223&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
