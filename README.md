@@ -25,12 +25,5 @@ Here are some ideas to get you started:
 
 <br>
   
-### MY STACK 📚
-  
-  <img src="https://img.shields.io/badge/-C%23-red?style=for-the-badge&logo=csharp">
-  <img src="https://img.shields.io/badge/-C-orange?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/-C++-yellow?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/-Unity-green?style=for-the-badge&logo=unity">
-  
 </div>
 ]
