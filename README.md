@@ -1,5 +1,3 @@
- <div align=center> JUCHAN IS DEVELOPER </div>
-
 <!--
 **mtaa5223/mtaa5223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +24,4 @@ Here are some ideas to get you started:
 <br>
   
 </div>
-]
+
